@@ -8,4 +8,8 @@ public class Demo {
 		System.out.println("the msg: "+msg);
 		return msg;
 	}
+	
+	public int add(int a,int b){
+		return a+b;
+	}
 }
